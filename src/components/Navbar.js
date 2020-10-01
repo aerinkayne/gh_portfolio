@@ -11,7 +11,7 @@ const Navbar = (props)=> {
                 <ul id="navbar">
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/javascript">JS Projects</Link></li>
-                    <li><Link to="/gridradio">Grid Test</Link></li> 
+                    <li><Link to="/css">CSS Designs</Link></li> 
                     <li><Link to="/artwork">Artwork</Link></li>   
                 </ul>
 

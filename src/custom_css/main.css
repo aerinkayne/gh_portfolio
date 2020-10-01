@@ -261,7 +261,7 @@ footer .last a {
     opacity: 1;
 }
 .projectTile img {
-    width: 85%;
+    width: 75%;
 }
 
 
@@ -337,7 +337,7 @@ footer .last a {
         height: 60px;
     }
     #projects {
-        width: 85%;
+        width: 90%;
     }
     h2 {
         font-size: 22px;

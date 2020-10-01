@@ -7,6 +7,7 @@ import Welcome from './components/Welcome';
 import Artwork from './components/Artwork';
 import GridRadio from './components/GridRadio';
 import JavascriptProjects from './components/JavascriptProjects';
+import StyleProjects from './components/StyleProjects'
 
 
 import './App.css';
@@ -29,8 +30,9 @@ class App extends React.Component {
       navbar: document.getElementById('navbar')
     })
   }
+
   componentDidUpdate(){
-    console.log(this.state);
+    //console.log(this.state);
   }
 
   handleClicks = (event)=> {
@@ -45,15 +47,6 @@ class App extends React.Component {
   handleChange = (event)=> {
     const {name, value} = event.target
     
-    /*
-    console.log(value);
-    if (name === "gridTheme"){
-      const themeOptions = Array.from(document.getElementsByClassName('gridRadioDisplay')); 
-      themeOptions.forEach((theme)=>{
-        theme.style.display = 'none';
-      });
-    } */
-
     this.setState({ 
       [name]: value
     });
@@ -73,6 +66,7 @@ class App extends React.Component {
             <Route exact path='/' component={Welcome} />
             <Route path='/gridradio'  component={() => <GridRadio gridTheme={this.state.gridTheme} onChange={this.handleChange} />}  />
             <Route path='/javascript' component={JavascriptProjects} />
+            <Route path='/css' component={StyleProjects} />
             <Route path='/artwork' component={Artwork} />
             <Route component={ ()=>{ return (<div>404 - Page not Found</div>) }} />
           </Switch>
