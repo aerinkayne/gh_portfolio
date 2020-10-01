@@ -11,11 +11,11 @@ const Navbar = (props)=> {
                 <ul id="navbar">
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/javascript">JS Projects</Link></li>
-                    <li><Link to="/css">CSS Projects</Link></li> 
+                    <li><Link to="/gridradio">Grid Test</Link></li> 
                     <li><Link to="/artwork">Artwork</Link></li>   
                 </ul>
 
-                <div className="burger burgX" onClick={props.handleClicks}>
+                <div className="burger" onClick={props.handleClicks}>
                     <div className="topB"></div>
                     <div className="midB"></div>
                     <div className="btmB"></div>

@@ -176,8 +176,8 @@ footer ul {
     max-width: calc(0.8 * 1200px);
     height: 60%;
     border-radius: 2% / 30%;
-    border-left: 5px solid  #646488;
-    border-right: 5px solid  #646488;
+    border-left: 5px solid  #aab;
+    border-right: 5px solid  #aab;
 }
 footer ul li {
     display: flex;
@@ -191,10 +191,10 @@ footer ul li {
     height: 60%;
 }
 footer ul li:not(.last) {
-    border-right: 3px solid #646488;
+    border-right: 3px solid #778;
 }
 footer ul li:not(.first) {
-    border-left: 3px solid #646488;
+    border-left: 3px solid #778;
 }
 footer .last a {
     padding-top: 0.25em;
@@ -237,10 +237,28 @@ footer .last a {
     margin: 2em 0;
 }
 .projectLink {
-    display: inline-block;
+    position: relative;
+    display: block;
+    margin: auto;
+    width: fit-content;
     padding: 0.2em 0.3em;
     font-size: 1.25rem;
-    align-self: flex-start;
+}
+.projectLink::before {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    position: absolute;
+    top: 25%;
+    content: '';
+    width: 0;
+    height: 0;
+    border: 0.5em solid transparent;
+    border-radius: 35%;
+    left: -2em;
+    border-left: 1em solid rgb(0, 46, 133);
+}
+.projectLink:hover::before{
+    opacity: 1;
 }
 .projectTile img {
     width: 85%;
@@ -278,11 +296,13 @@ footer .last a {
     font-size: 0.8rem;
 }
 .radioBtnContainer > div {
-    margin: 0.4em;
+    margin: 0 0.4em;
 }
 .radioBtnContainer label {
-    padding-left: 0.25em;
     letter-spacing: 0.6px;
+}
+.radioBtnContainer input {
+    margin: 0.2em;
 }
 
 
