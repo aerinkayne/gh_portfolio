@@ -1,5 +1,4 @@
 /*artwork module styles */
-
 .itemContainer {
     position: relative;
     margin: 2em auto;
@@ -11,7 +10,6 @@
     grid-gap: 1.75em  min(7%, 50px); 
     width: 80%;
 }
-
 .art {  /* the img tag*/
     width: 100%;
     height: auto;

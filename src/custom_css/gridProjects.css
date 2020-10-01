@@ -301,7 +301,7 @@
     background-image: url("../images/grid/pexels-photo-1597662chuanyu1400.jpeg");
 } 
 .BG1bottomAlt {
-    background-position: center 100px; 
+    background-position: center 0; 
     background-image: url("../images/grid/pexels-photo-262713crop.jpeg"); 
 }
 
@@ -393,9 +393,6 @@
 }
 @media only screen and (max-width: 700px) {
     .BG1top, .BG2top, .BG1bottom, .BG2bottom, .BG1bottomAlt {
-        background-size: 950px;
+        background-size: 960px;
 	}
-	.BG1bottomAlt {
-		background-position: center 0px;
-	}  
 }

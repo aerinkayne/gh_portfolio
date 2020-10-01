@@ -1,4 +1,4 @@
-/*welcome module*/
+/*welcome module styles*/
 #welcome {
     position: relative;
     margin-top: 0;
@@ -37,7 +37,6 @@
     text-align: center;
     width: 40px;
 }
-
 #intro p {
     width: 90%;
     color: #eef;

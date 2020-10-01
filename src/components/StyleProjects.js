@@ -1,16 +1,16 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import GridRadio from '../components/GridRadio';
+import MaskRadio from '../components/MaskRadio';
 
-const StyleProjects = ()=> {
+
+const StyleProjects = (props)=> {
     return (
         <div>
-            <h1>CSS Designs</h1>
-            <div className="projectTile">
-                <Link to="/gridradio">grid radio test</Link>
-            </div>
-            <div className="projectTile">
-                <Link to="/maskradio">masking radio test</Link>
-            </div>
+            
+            <GridRadio gridTheme={props.info.gridTheme} onChange={props.onChange} />
+            <hr />
+            <MaskRadio maskTheme={props.info.maskTheme} onChange={props.onChange} />
+
         </div>
     );
 };

@@ -32,10 +32,13 @@ a {
     text-decoration: none;
 }
 hr {
-    width: 75%;
+    width: 80%;
     margin: 4% auto;
     background-color: rgb(209, 209, 255);
     border-radius: 50%;
+}
+.shortHR {
+    width: 50%;
 }
 nav, footer {
     position: relative;
@@ -224,42 +227,38 @@ footer .last a {
     border-bottom: 100px solid rgba(0,0,10,0.3);
 }
 
-#projects {
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    width: 70%;
-    border: 1px solid blue;
-}
-.projectTile {
+.projects {
+    margin: 1em auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 70%;
+}
+.projectTile {
     width: 100%;
     margin: 2em 0;
-    border: 1px solid white;
 }
 .projectTile img {
     width: 60%;
-    border: 1px solid red;
-}
-.projectTile a {
-    border: 1px solid green;
+    padding: 0.4em 0;
 }
 
-.projectLink {
+
+.projectTile a {
+    margin: 0.2em 0.4em;
     position: relative;
     display: block;
-    margin: 0.25em auto;
-    width: fit-content;
     font-size: 1.25rem;
+    background-color: rgba(200,225,255,0.3);
+    border: 1px inset rgb(240, 245, 255);
+    border-radius: 5px;
 }
-.projectLink::before {
+.projectTile a::before {
     opacity: 0;
     transition: opacity 0.2s ease;
     position: absolute;
-    top: 30%; 
+    top: calc(50% - 0.4em); 
     content: '';
     width: 0;
     height: 0;
@@ -268,12 +267,8 @@ footer .last a {
     left: -1.5em;
     border-left: 1em solid rgb(0, 62, 179);
 }
-.projectLink:hover::before{
+.projectTile a:hover::before{
     opacity: 1;
-}
-
-#fishtankImg {
-    width: 60%;
 }
 
 .descriptionContainer {
