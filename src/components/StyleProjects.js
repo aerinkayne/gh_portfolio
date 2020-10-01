@@ -8,6 +8,9 @@ const StyleProjects = ()=> {
             <div className="projectTile">
                 <Link to="/gridradio">grid radio test</Link>
             </div>
+            <div className="projectTile">
+                <Link to="/maskradio">masking radio test</Link>
+            </div>
         </div>
     );
 };
