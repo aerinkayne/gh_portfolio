@@ -7,10 +7,10 @@ const Artwork = ()=> {
     return (
         <div>
                 
-            <h1>Digital Art Portfolio</h1>
+            <h1>Digital Art</h1>
             
             <div className="descriptionContainer">
-                <p>Below are some examples of my artwork.  I enjoy a wide range of artistic styles, though I prefer creating surreal or fantasy themes.  Most of the work displayed here was created using ArtStudio (an iPad app) and/or GIMP.     
+                <p className="leftText">Below are some examples of my artwork.  I enjoy a wide range of artistic styles, though I prefer creating surreal or fantasy themes.  The work displayed here was created using an iPad app called ArtStudio and/or GIMP.     
                 </p>
             </div> 
 		

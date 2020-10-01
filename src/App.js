@@ -26,7 +26,7 @@ class App extends React.Component {
     this.state = {
       navbar: '',                //stores ref to docEleId'navbar' after comp load
       gridTheme: 'abstract',     //stores 'value' for grid radio set name=gridTheme.  changed via onchange handle  
-      maskTheme: ''
+      maskTheme: 'even3'
     }
   }
   componentDidMount(){
