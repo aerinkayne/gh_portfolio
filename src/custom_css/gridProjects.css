@@ -254,6 +254,7 @@
 }
 
 
+
 /* blogtrail */
 .BG1top, .BG2top, .BG1bottom, .BG2bottom, .BG1bottomAlt { 
     background-attachment: fixed;
@@ -265,12 +266,11 @@
 	border: 1px solid #334;
 }
 
-
 .BG2top {  /* top/bottom refers to position.  div 2 is inside of div 1 */
     background-position: center -25px;
     background-image: url("../images/grid/pexels-photo-41102skitterphoto.jpeg");
-    border: 1px solid transparent;
-    border-radius: 2px;
+	border: 1px solid transparent;
+	border-radius: 2px;
 } 
 .BG1top {
     background-position: center top;
@@ -279,8 +279,8 @@
 .BG2bottom {
     background-position: center -200px; 
     background-image: url("../images/grid/trees-in-forest-during-sunset-247421.jpg"); 
-    border: 1px solid transparent;
-    border-radius: 2px;
+	border: 1px solid transparent;
+	border-radius: 2px;
 }
 .BG1bottom { 
     background-position: center top; 

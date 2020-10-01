@@ -20,9 +20,8 @@ class App extends React.Component {
   constructor(){
     super();
     this.state = {
-      navbar: '',           //stores ref to docEleId'navbar' after comp load
-      gridTheme: '',        //stores 'value' for grid radio name = gridTheme
-      gridIndex: 0          //index of grid item to show
+      navbar: '',               //stores ref to docEleId'navbar' after comp load
+      gridTheme: 'abstract'     //stores 'value' for grid radio set name=gridTheme.  changed via onchange handle  
     }
   }
   componentDidMount(){
@@ -45,21 +44,18 @@ class App extends React.Component {
 
   handleChange = (event)=> {
     const {name, value} = event.target
-    let gridIndex = 0;
+    
+    /*
     console.log(value);
     if (name === "gridTheme"){
       const themeOptions = Array.from(document.getElementsByClassName('gridRadioDisplay')); 
-      themeOptions.forEach((theme, index)=>{
+      themeOptions.forEach((theme)=>{
         theme.style.display = 'none';
-        if (theme.id === value){
-          gridIndex = index;
-        }
       });
-    }
+    } */
 
     this.setState({ 
-      [name]: value,
-      gridIndex
+      [name]: value
     });
   }
 
@@ -75,7 +71,7 @@ class App extends React.Component {
           {/* this stuff hash routed */}
           <Switch>
             <Route exact path='/' component={Welcome} />
-            <Route path='/gridradio'  component={() => <GridRadio gridTheme={this.state.gridTheme} onChange={this.handleChange} gridIndex={this.state.gridIndex}/>}  />
+            <Route path='/gridradio'  component={() => <GridRadio gridTheme={this.state.gridTheme} onChange={this.handleChange} />}  />
             <Route path='/javascript' component={JavascriptProjects} />
             <Route path='/artwork' component={Artwork} />
             <Route component={ ()=>{ return (<div>404 - Page not Found</div>) }} />

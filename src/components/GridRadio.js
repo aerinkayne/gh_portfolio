@@ -4,7 +4,7 @@ const GridRadio = (props)=> {
     
     return (
         <div>                                               {/* I hate you React, like you will never know */}
-            <div className="gridRadioDisplay" id="abstract" style={{display: props.gridIndex===0 ? 'grid' : 'none'}}> 
+            <div className="gridRadioDisplay" id="abstract" style={{display: props.gridTheme==='abstract' ? 'grid' : 'none'}}> 
                 <div className="spinner">
                     <div className="gridItem gt1"></div>
                 </div>
@@ -15,7 +15,7 @@ const GridRadio = (props)=> {
                 <div className="gridItem gt6"></div>
             </div>
     
-            <div className="gridRadioDisplay" id="sandWater" style={{display: props.gridIndex===1? 'grid' : 'none'}}>  
+            <div className="gridRadioDisplay" id="sandWater" style={{display: props.gridTheme==='sandWater' ? 'grid' : 'none'}}>  
                 <div className="gridItem gt1"></div>
                 <div className="gridItem gt2"></div>
                 <div className="gridItem gt3"></div>
@@ -25,7 +25,7 @@ const GridRadio = (props)=> {
                 <div className="gridItem gt7"></div>
             </div>
 
-            <div className="gridRadioDisplay" id="birds" style={{display: props.gridIndex===2? 'grid' : 'none'}}>   
+            <div className="gridRadioDisplay" id="birds" style={{display: props.gridTheme==='birds' ? 'grid' : 'none'}}>   
                 <div className="gridItem gt1"></div>
                 <div className="gridItem gt2"></div>
                 <div className="gridItem gt3"></div>
@@ -34,7 +34,7 @@ const GridRadio = (props)=> {
                 <div className="gridItem gt6"></div>
             </div>
 
-            <div className="gridRadioDisplay" id="trail" style={{display: props.gridIndex===3? 'grid' : 'none'}} >
+            <div className="gridRadioDisplay" id="trail" style={{display: props.gridTheme==='trail' ? 'grid' : 'none'}} >
                 <div className="_x"><h1>Lorem ipsum dolor</h1></div>
                 <div className="BG1top _a">
                     <div className="BG2top"></div>
