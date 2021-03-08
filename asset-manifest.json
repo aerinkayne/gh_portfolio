@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gh_portfolio/static/css/main.9c2914e2.chunk.css",
-    "main.js": "/gh_portfolio/static/js/main.742e3801.chunk.js",
-    "main.js.map": "/gh_portfolio/static/js/main.742e3801.chunk.js.map",
+    "main.css": "/gh_portfolio/static/css/main.17269508.chunk.css",
+    "main.js": "/gh_portfolio/static/js/main.ab8ee56d.chunk.js",
+    "main.js.map": "/gh_portfolio/static/js/main.ab8ee56d.chunk.js.map",
     "runtime-main.js": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js",
     "runtime-main.js.map": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js.map",
-    "static/js/2.ffdf5352.chunk.js": "/gh_portfolio/static/js/2.ffdf5352.chunk.js",
-    "static/js/2.ffdf5352.chunk.js.map": "/gh_portfolio/static/js/2.ffdf5352.chunk.js.map",
+    "static/js/2.ea45267f.chunk.js": "/gh_portfolio/static/js/2.ea45267f.chunk.js",
+    "static/js/2.ea45267f.chunk.js.map": "/gh_portfolio/static/js/2.ea45267f.chunk.js.map",
     "index.html": "/gh_portfolio/index.html",
-    "precache-manifest.424bafec82a394be544e3839f29ff997.js": "/gh_portfolio/precache-manifest.424bafec82a394be544e3839f29ff997.js",
+    "precache-manifest.1ee41d690a318de286e672f166460a08.js": "/gh_portfolio/precache-manifest.1ee41d690a318de286e672f166460a08.js",
     "service-worker.js": "/gh_portfolio/service-worker.js",
-    "static/css/main.9c2914e2.chunk.css.map": "/gh_portfolio/static/css/main.9c2914e2.chunk.css.map",
-    "static/js/2.ffdf5352.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.ffdf5352.chunk.js.LICENSE.txt",
+    "static/css/main.17269508.chunk.css.map": "/gh_portfolio/static/css/main.17269508.chunk.css.map",
+    "static/js/2.ea45267f.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.ea45267f.chunk.js.LICENSE.txt",
     "static/media/gridProjects.css": "/gh_portfolio/static/media/water_rocksCrT590178.bd88ac1f.jpg",
     "static/media/welcomeAndArt.css": "/gh_portfolio/static/media/macbook-pro-131187negativespace.a74a7259.jpg",
     "static/media/main.css": "/gh_portfolio/static/media/pexels-photo-235985pixabay.11572a3e.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a44cc9b.js",
-    "static/js/2.ffdf5352.chunk.js",
-    "static/css/main.9c2914e2.chunk.css",
-    "static/js/main.742e3801.chunk.js"
+    "static/js/2.ea45267f.chunk.js",
+    "static/css/main.17269508.chunk.css",
+    "static/js/main.ab8ee56d.chunk.js"
   ]
 }
