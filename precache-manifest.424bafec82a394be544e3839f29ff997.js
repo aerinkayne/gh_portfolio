@@ -1,39 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb13ba075a948dbee22888e8ebc0d255",
+    "revision": "63aa31c7b0363d02b2d7588dc8ce9319",
     "url": "/gh_portfolio/index.html"
   },
   {
-    "revision": "7df76fe55f941ebbf08d",
-    "url": "/gh_portfolio/static/css/main.bfdd5afb.chunk.css"
+    "revision": "1b9346d56a3103e87a81",
+    "url": "/gh_portfolio/static/css/main.9c2914e2.chunk.css"
   },
   {
-    "revision": "6246b715fb1ece58c488",
-    "url": "/gh_portfolio/static/js/2.27e12423.chunk.js"
+    "revision": "5d3f576530ff75a8b6ca",
+    "url": "/gh_portfolio/static/js/2.ffdf5352.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gh_portfolio/static/js/2.27e12423.chunk.js.LICENSE.txt"
+    "url": "/gh_portfolio/static/js/2.ffdf5352.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7df76fe55f941ebbf08d",
-    "url": "/gh_portfolio/static/js/main.5b4e7a8f.chunk.js"
+    "revision": "1b9346d56a3103e87a81",
+    "url": "/gh_portfolio/static/js/main.742e3801.chunk.js"
   },
   {
     "revision": "c7894c1bc3f574ee1923",
     "url": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js"
-  },
-  {
-    "revision": "49899bded3feef9b1f04ef9dd0b58dfc",
-    "url": "/gh_portfolio/static/media/blueSqr3.49899bde.jpg"
-  },
-  {
-    "revision": "febf7de7a261a0fe322ec21cca67f68e",
-    "url": "/gh_portfolio/static/media/blue_purp_flow.febf7de7.jpg"
-  },
-  {
-    "revision": "912de1bb1801937c99c681a4c4dd9558",
-    "url": "/gh_portfolio/static/media/colorGlass.912de1bb.jpg"
   },
   {
     "revision": "5b6b867985471badf10fd7f062d308b4",
@@ -42,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9eb094e9cf1c331535769229e01f8b43",
     "url": "/gh_portfolio/static/media/fallMaple_edit_589840.9eb094e9.jpeg"
-  },
-  {
-    "revision": "a346ee68f8f47648b3bf61c60c9df165",
-    "url": "/gh_portfolio/static/media/flame.a346ee68.jpg"
   },
   {
     "revision": "ac3f360b8b9ee7c8441e04a5d072f406",
@@ -62,14 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a74a7259d08f8c6de49f0a30de571b72",
     "url": "/gh_portfolio/static/media/macbook-pro-131187negativespace.a74a7259.jpg"
-  },
-  {
-    "revision": "26400e7684538d8eaa00cd767f31ab15",
-    "url": "/gh_portfolio/static/media/matrixy.26400e76.jpg"
-  },
-  {
-    "revision": "b940e3ac40a9ead1339715fcde9213c0",
-    "url": "/gh_portfolio/static/media/paintBird.b940e3ac.jpg"
   },
   {
     "revision": "8aa15ca56ca72c577f874ea27bc758d9",
