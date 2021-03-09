@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gh_portfolio/static/css/main.85a95750.chunk.css",
+    "main.css": "/gh_portfolio/static/css/main.88eda6dd.chunk.css",
     "main.js": "/gh_portfolio/static/js/main.a1ea84ba.chunk.js",
     "main.js.map": "/gh_portfolio/static/js/main.a1ea84ba.chunk.js.map",
     "runtime-main.js": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js",
@@ -8,9 +8,9 @@
     "static/js/2.ea45267f.chunk.js": "/gh_portfolio/static/js/2.ea45267f.chunk.js",
     "static/js/2.ea45267f.chunk.js.map": "/gh_portfolio/static/js/2.ea45267f.chunk.js.map",
     "index.html": "/gh_portfolio/index.html",
-    "precache-manifest.5042bae5d6118bb7e623ebc28a0e54be.js": "/gh_portfolio/precache-manifest.5042bae5d6118bb7e623ebc28a0e54be.js",
+    "precache-manifest.ea8baf1eb579fd1e8dc225879698e362.js": "/gh_portfolio/precache-manifest.ea8baf1eb579fd1e8dc225879698e362.js",
     "service-worker.js": "/gh_portfolio/service-worker.js",
-    "static/css/main.85a95750.chunk.css.map": "/gh_portfolio/static/css/main.85a95750.chunk.css.map",
+    "static/css/main.88eda6dd.chunk.css.map": "/gh_portfolio/static/css/main.88eda6dd.chunk.css.map",
     "static/js/2.ea45267f.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.ea45267f.chunk.js.LICENSE.txt",
     "static/media/gridProjects.css": "/gh_portfolio/static/media/water_rocksCrT590178.bd88ac1f.jpg",
     "static/media/welcomeAndArt.css": "/gh_portfolio/static/media/macbook-pro-131187negativespace.a74a7259.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4a44cc9b.js",
     "static/js/2.ea45267f.chunk.js",
-    "static/css/main.85a95750.chunk.css",
+    "static/css/main.88eda6dd.chunk.css",
     "static/js/main.a1ea84ba.chunk.js"
   ]
 }
