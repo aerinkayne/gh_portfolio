@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gh_portfolio/static/css/main.bb80d2a3.chunk.css",
-    "main.js": "/gh_portfolio/static/js/main.d3b0777d.chunk.js",
-    "main.js.map": "/gh_portfolio/static/js/main.d3b0777d.chunk.js.map",
+    "main.css": "/gh_portfolio/static/css/main.67e9e017.chunk.css",
+    "main.js": "/gh_portfolio/static/js/main.6f9aeab9.chunk.js",
+    "main.js.map": "/gh_portfolio/static/js/main.6f9aeab9.chunk.js.map",
     "runtime-main.js": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js",
     "runtime-main.js.map": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js.map",
     "static/js/2.ea45267f.chunk.js": "/gh_portfolio/static/js/2.ea45267f.chunk.js",
     "static/js/2.ea45267f.chunk.js.map": "/gh_portfolio/static/js/2.ea45267f.chunk.js.map",
     "index.html": "/gh_portfolio/index.html",
-    "precache-manifest.48935cd12436d7e63f9dc139fad9e1af.js": "/gh_portfolio/precache-manifest.48935cd12436d7e63f9dc139fad9e1af.js",
+    "precache-manifest.1785275d12f385987b4571fe7d7c5457.js": "/gh_portfolio/precache-manifest.1785275d12f385987b4571fe7d7c5457.js",
     "service-worker.js": "/gh_portfolio/service-worker.js",
-    "static/css/main.bb80d2a3.chunk.css.map": "/gh_portfolio/static/css/main.bb80d2a3.chunk.css.map",
+    "static/css/main.67e9e017.chunk.css.map": "/gh_portfolio/static/css/main.67e9e017.chunk.css.map",
     "static/js/2.ea45267f.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.ea45267f.chunk.js.LICENSE.txt",
     "static/media/gridProjects.css": "/gh_portfolio/static/media/water_rocksCrT590178.bd88ac1f.jpg",
     "static/media/welcomeAndArt.css": "/gh_portfolio/static/media/macbook-pro-131187negativespace.a74a7259.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4a44cc9b.js",
     "static/js/2.ea45267f.chunk.js",
-    "static/css/main.bb80d2a3.chunk.css",
-    "static/js/main.d3b0777d.chunk.js"
+    "static/css/main.67e9e017.chunk.css",
+    "static/js/main.6f9aeab9.chunk.js"
   ]
 }
