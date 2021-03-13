@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b2258bce0ef9b65238760a82c54f4ae",
+    "revision": "6986462a9472c76d4071161d575d64a8",
     "url": "/gh_portfolio/index.html"
   },
   {
-    "revision": "08e283f347fbebbb70e7",
-    "url": "/gh_portfolio/static/css/main.fbf15894.chunk.css"
+    "revision": "6ee4c1c1c92af2c4685d",
+    "url": "/gh_portfolio/static/css/main.e88798ce.chunk.css"
   },
   {
-    "revision": "48a3ca90cdb38810322b",
-    "url": "/gh_portfolio/static/js/2.a4d3fc7d.chunk.js"
+    "revision": "ae59d9a3b8a681b61ad6",
+    "url": "/gh_portfolio/static/js/2.b85d9364.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gh_portfolio/static/js/2.a4d3fc7d.chunk.js.LICENSE.txt"
+    "url": "/gh_portfolio/static/js/2.b85d9364.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08e283f347fbebbb70e7",
-    "url": "/gh_portfolio/static/js/main.29cb12a5.chunk.js"
+    "revision": "6ee4c1c1c92af2c4685d",
+    "url": "/gh_portfolio/static/js/main.9a46e119.chunk.js"
   },
   {
     "revision": "c7894c1bc3f574ee1923",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac3f360b8b9ee7c8441e04a5d072f406",
     "url": "/gh_portfolio/static/media/forest-sunbeams-trees-sunlight-70365.ac3f360b.jpeg"
+  },
+  {
+    "revision": "bf8f38e33760289f1147f6f84fe8b638",
+    "url": "/gh_portfolio/static/media/invadersLink1.bf8f38e3.png"
   },
   {
     "revision": "14437e3379ebb78fd6ae096bfe3736d2",
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bcab0435f8f33e8b9f7c4674ac872472",
     "url": "/gh_portfolio/static/media/sandReeds1300510sm.bcab0435.jpg"
+  },
+  {
+    "revision": "5e145624da60acf8e5535090e507bb10",
+    "url": "/gh_portfolio/static/media/seasonsLink2.5e145624.png"
   },
   {
     "revision": "ce4c66340b5a49834c5742db6f2f4fc1",

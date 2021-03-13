@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/gh_portfolio/static/css/main.fbf15894.chunk.css",
-    "main.js": "/gh_portfolio/static/js/main.29cb12a5.chunk.js",
-    "main.js.map": "/gh_portfolio/static/js/main.29cb12a5.chunk.js.map",
+    "main.css": "/gh_portfolio/static/css/main.e88798ce.chunk.css",
+    "main.js": "/gh_portfolio/static/js/main.9a46e119.chunk.js",
+    "main.js.map": "/gh_portfolio/static/js/main.9a46e119.chunk.js.map",
     "runtime-main.js": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js",
     "runtime-main.js.map": "/gh_portfolio/static/js/runtime-main.4a44cc9b.js.map",
-    "static/js/2.a4d3fc7d.chunk.js": "/gh_portfolio/static/js/2.a4d3fc7d.chunk.js",
-    "static/js/2.a4d3fc7d.chunk.js.map": "/gh_portfolio/static/js/2.a4d3fc7d.chunk.js.map",
+    "static/js/2.b85d9364.chunk.js": "/gh_portfolio/static/js/2.b85d9364.chunk.js",
+    "static/js/2.b85d9364.chunk.js.map": "/gh_portfolio/static/js/2.b85d9364.chunk.js.map",
     "index.html": "/gh_portfolio/index.html",
-    "precache-manifest.e44ef84f783eb34b693bfe166170f78d.js": "/gh_portfolio/precache-manifest.e44ef84f783eb34b693bfe166170f78d.js",
+    "precache-manifest.af17ba6e4133aad1688ea8b426e3c69f.js": "/gh_portfolio/precache-manifest.af17ba6e4133aad1688ea8b426e3c69f.js",
     "service-worker.js": "/gh_portfolio/service-worker.js",
-    "static/css/main.fbf15894.chunk.css.map": "/gh_portfolio/static/css/main.fbf15894.chunk.css.map",
-    "static/js/2.a4d3fc7d.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.a4d3fc7d.chunk.js.LICENSE.txt",
+    "static/css/main.e88798ce.chunk.css.map": "/gh_portfolio/static/css/main.e88798ce.chunk.css.map",
+    "static/js/2.b85d9364.chunk.js.LICENSE.txt": "/gh_portfolio/static/js/2.b85d9364.chunk.js.LICENSE.txt",
     "static/media/gridProjects.css": "/gh_portfolio/static/media/water_rocksCrT590178.bd88ac1f.jpg",
+    "static/media/invadersLink1.png": "/gh_portfolio/static/media/invadersLink1.bf8f38e3.png",
     "static/media/welcomeAndArt.css": "/gh_portfolio/static/media/macbook-pro-131187negativespace.a74a7259.jpg",
-    "static/media/main.css": "/gh_portfolio/static/media/pexels-photo-235985pixabay.11572a3e.jpeg"
+    "static/media/main.css": "/gh_portfolio/static/media/pexels-photo-235985pixabay.11572a3e.jpeg",
+    "static/media/seasonsLink2.png": "/gh_portfolio/static/media/seasonsLink2.5e145624.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4a44cc9b.js",
-    "static/js/2.a4d3fc7d.chunk.js",
-    "static/css/main.fbf15894.chunk.css",
-    "static/js/main.29cb12a5.chunk.js"
+    "static/js/2.b85d9364.chunk.js",
+    "static/css/main.e88798ce.chunk.css",
+    "static/js/main.9a46e119.chunk.js"
   ]
 }
